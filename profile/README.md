@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://stecerjs.netlib.re/")>
-    <img src="https://raw.github.com/Stecer-js/.github/blob/main/profile/logo3.png" alt="Stecer.js logo" height="140">
+    <img src="https://github.com/Stecer-js/.github/blob/main/profile/logo3.png?raw=true" alt="Stecer.js logo" height="140">
   </a>
 </p>
 
