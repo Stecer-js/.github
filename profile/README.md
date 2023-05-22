@@ -15,7 +15,7 @@
   ·
   <a href="https://github.com/nodejs/node/issues/new/choose">Report a bug</a>
   ·
-  <a href="https://discord.com/">Contribute to Stecer.js</a>
+  <a href="https://discord.gg/GZrxsprwBd">Contribute to Stecer.js</a>
 </p>
 
 ----
